@@ -7,9 +7,8 @@
 ---
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Next.js+%2B+TypeScript;MERN+Stack+Expert;Building+Scalable+Web+Apps;Clean+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+Enthusiast;TailwindCSS+UI+Designer;MERN+Stack+Expertise;Building+Scalable+and+Modern+Web+Apps;Clean+Code+%7C+Smooth+UX+%7C+Fast+Performance" />
 </p>
-
 
 ---
 
