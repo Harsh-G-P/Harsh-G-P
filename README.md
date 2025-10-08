@@ -5,11 +5,11 @@
 </div>
 
 ---
-
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+TypeScript;TailwindCSS+Styling;MERN+Stack+Experience;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Next.js+%2B+TypeScript;MERN+Stack+Expert;Building+Scalable+Web+Apps;Clean+Code+Enthusiast" />
 </p>
+
 
 ---
 
