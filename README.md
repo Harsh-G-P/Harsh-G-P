@@ -41,6 +41,7 @@
 
 #### 🧰 Tools & Platforms
 <div align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -51,7 +52,7 @@
 
 ### ⚡ Projects I’ve Built
 - 🛒 **Full Stack E-Commerce App** – MERN + Stripe + Admin Dashboard  
-- 💬 **Realtime Chat App** – Next.js + Tailwind + Socket.io  
+- 💬 **Realtime Chat App** – Next.js + Tailwind  Also MERN + Tailwind + Socket.io
 - 🎨 **Portfolio Website** – Next.js + TailwindCSS + Framer Motion  
 - 🔐 **Auth System** – Next.js + JWT + Email Verification  
 
