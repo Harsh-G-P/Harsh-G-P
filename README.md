@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <h1 style="font-size:2.5rem; font-weight:700;">👋 Hi, I'm <span style="color:#38bdf8;">Kusuo Saiki</span></h1>
+  <h1 style="font-size:2.5rem; font-weight:700;">👋 Hi, I'm <span style="color:#38bdf8;">Harsh Prajapati</span></h1>
   <h3 style="color:#94a3b8; font-weight:500;">Full Stack Developer | Next.js • TypeScript • Tailwind CSS • MERN Stack</h3>
 </div>
 
