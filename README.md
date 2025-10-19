@@ -74,7 +74,7 @@
 <p align="center">
   <a href="https://github.com/Harsh-G-P" target="_blank"><img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:hp3032003@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-amber-two-wptiyrxqo7.vercel.app" target="_blank">
+  <a href="https://portfolio-30-psi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
